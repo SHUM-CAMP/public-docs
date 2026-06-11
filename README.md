@@ -61,6 +61,15 @@ Our team includes OSINT researchers as well as lawyers, analysts, and experts in
 
 ---
 
+## Public repositories
+
+| Repository | Purpose |
+|------------|---------|
+| [community](https://github.com/SHUM-CAMP/community) | Public discussion and coordination space (GitHub Discussions, jobs, collaboration) |
+| [obsidian-osint-templates](https://github.com/SHUM-CAMP/obsidian-osint-templates) | Clone-ready Obsidian vault with OSINT methodology and reporting templates (EN/UK) |
+
+---
+
 ## About this repository
 
-This README introduces **SHUM** and our work. For collaboration or media inquiries, please use the [contact page](https://shum-ng.org/contact) on our website.
+The **public-docs** repository holds public-facing documentation about **SHUM**. For collaboration or media inquiries, please use the [contact page](https://shum-ng.org/contact) on our website.
